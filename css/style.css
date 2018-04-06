@@ -1,0 +1,19 @@
+.psize {
+    width: 100%;
+    box-shadow: 5px 5px 5px lightgrey;
+}
+
+.rect * {
+    margin: 5px;
+}
+
+.my-title {
+    line-height: 50px;
+    height: 50px;
+    text-align: center;
+}
+
+.my-time {
+    color: grey;
+    font-size: 0.8em;
+}
